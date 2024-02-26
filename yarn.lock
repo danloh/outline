@@ -1047,10 +1047,17 @@
   resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-6.0.0.tgz#fe364f025ba74f6de6c837a84ef44bdb1d61e68f"
   integrity sha512-mgmE7XBYY/21erpzhexk4Cj1cyTQ9LzvnTxtzM17BJ7ERMNE6W72mQRo0I1Ud8eFJ+RVVIcBNhLFZ3GX4XFz5w==
 
-"@bull-board/api@4.0.0", "@bull-board/api@^4.0.0":
+"@bull-board/api@4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@bull-board/api/-/api-4.0.0.tgz#63931cbee56ff3b1525f8771d9b8a6df12838962"
   integrity sha512-4STXOhQv07/8d/Ei6LA38D3aaYtMuOHJMejkkF2CTAW3gAzEtwhDHmrKlk7tG01Gq2jnPNIcYxbd4WIbtP/+fQ==
+  dependencies:
+    redis-info "^3.0.8"
+
+"@bull-board/api@^5.1.1":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/@bull-board/api/-/api-5.1.1.tgz#1a7e966afc65e2ca453b63f521aad00bdf78cf2e"
+  integrity sha512-q3vr/gXGY2ubLqm9rw0V1qP44Bj24x71u1t+zEs7CpqiOJI9Rjf8OjrAI8FlzF6iNBcmI2mCAGDl4U3Kg6PjoQ==
   dependencies:
     redis-info "^3.0.8"
 

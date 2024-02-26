@@ -50,7 +50,7 @@
     "@babel/plugin-transform-regenerator": "^7.10.4",
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
-    "@bull-board/api": "^4.0.0",
+    "@bull-board/api": "^5.1.1",
     "@bull-board/koa": "^4.0.0",
     "@dnd-kit/core": "^4.0.3",
     "@dnd-kit/modifiers": "^4.0.0",
