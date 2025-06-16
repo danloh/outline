@@ -3238,10 +3238,10 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
-"@types/utf8@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/utf8/-/utf8-3.0.0.tgz#8f4875063d2ea966c57a34a25c11333520e83980"
-  integrity sha512-QrhvCktdm5wD48axAnjqSzPH9lOj0MiCYfMX6MSqGs2Jv+txwvdxviXiCEj8zSCWIEDU9SIJ7g9pU5KtxRgYSg==
+"@types/utf8@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@types/utf8/-/utf8-3.0.3.tgz#e153ada15157477a9e0d2bcc638c34284a1d82ea"
+  integrity sha512-+lqLGxWZsEe4Z6OrzBI7Ym4SMUTaMS5yOrHZ0/IL0bpIye1Qbs4PpobJL2mLDbftUXlPFZR7fu6d1yM+bHLX1w==
 
 "@types/uuid@^8.3.4":
   version "8.3.4"
