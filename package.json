@@ -232,7 +232,7 @@
     "@types/fs-extra": "^9.0.13",
     "@types/fuzzy-search": "^2.1.2",
     "@types/google.analytics": "^0.0.42",
-    "@types/invariant": "^2.2.35",
+    "@types/invariant": "^2.2.37",
     "@types/ioredis": "^4.28.1",
     "@types/jest": "^27.0.2",
     "@types/jsonwebtoken": "^8.5.8",
